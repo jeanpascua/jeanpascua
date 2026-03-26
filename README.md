@@ -1,6 +1,6 @@
 # Hi, I'm Jean 👋
 
-I'm a first-year post-diploma Computer Science student at the **University of Lethbridge** (Calgary campus), building on a Software Development diploma I completed with honours at SAIT. I'm drawn to **cybersecurity** and the intersection of software design and security engineering.
+I'm a third-year Computer Science student at the **University of Lethbridge** (Calgary campus), building on a Software Development diploma I completed with honours at SAIT. I'm drawn to **cybersecurity** and the intersection of software design and security engineering.
 
 Before tech, I worked in kitchens and cleaning services. That background shaped how I approach problems — methodically, under pressure, and without needing to be told twice.
 
