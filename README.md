@@ -8,7 +8,6 @@ Before tech, I worked in kitchens and cleaning services. That background shaped 
 
 ## What I'm Working On
 
-- 🔐 Fraud detection system (Python) — applying algorithmic thinking to a real-world security problem
 - 📚 CPSC coursework: Data Structures & Algorithms, Database Systems
 - 🎮 Professional game testing at **TestHive** — documenting bugs, running regression tests on pre-release titles
 
@@ -35,7 +34,6 @@ Before tech, I worked in kitchens and cleaning services. That background shaped 
 
 | Project | Language | What it is |
 |---|---|---|
-| [fraud-detection](#) | Python | Transaction anomaly detection using ML |
 | [password-validation-system](https://github.com/JeanXristianPascua/password-validation-system) | Assembly | XOR-encoded auth system with lockout logic |
 | [text-based-adventure-game](https://github.com/JeanXristianPascua/text-based-adventure-game) | C++ | Factory-pattern adventure game with CI pipeline |
 | [sait-web-project](https://github.com/anthony040190/sait-sadt-web-project) | JavaScript | Full-stack app with Firebase auth + weather API |
