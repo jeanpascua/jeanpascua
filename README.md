@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Jean 👋
 
-<!--
-**JeanXristianPascua/JeanXristianPascua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year post-diploma Computer Science student at the **University of Lethbridge** (Calgary campus), building on a Software Development diploma I completed with honours at SAIT. I'm drawn to **cybersecurity** and the intersection of software design and security engineering.
 
-Here are some ideas to get you started:
+Before tech, I worked in kitchens and cleaning services. That background shaped how I approach problems — methodically, under pressure, and without needing to be told twice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I'm Working On
+
+- 🔐 Fraud detection system (Python) — applying algorithmic thinking to a real-world security problem
+- 📚 CPSC coursework: Data Structures & Algorithms, Database Systems
+- 🎮 Professional game testing at **TestHive** — documenting bugs, running regression tests on pre-release titles
+
+---
+
+## Tech I Work With
+
+**Languages:** Python · Java · C++ · JavaScript · SQL · C# · Assembly · HTML/CSS
+
+**Tools:** Git · GitHub · GitLab · Firebase · Linux · VS Code · Android Studio · Figma
+
+**Concepts:** OOP · Data Structures · Software Testing · Web Dev · Software Security · Database Design · Agile
+
+---
+
+## Certifications
+
+- 🛡️ Google Cybersecurity Specialization — Coursera (2025)
+- 🖥️ Google IT Support Specialization — Coursera (2024)
+
+---
+
+## A Few Things I've Built
+
+| Project | Language | What it is |
+|---|---|---|
+| [fraud-detection](#) | Python | Transaction anomaly detection using ML |
+| [password-validation-system](https://github.com/JeanXristianPascua/password-validation-system) | Assembly | XOR-encoded auth system with lockout logic |
+| [text-based-adventure-game](https://github.com/JeanXristianPascua/text-based-adventure-game) | C++ | Factory-pattern adventure game with CI pipeline |
+| [sait-web-project](https://github.com/anthony040190/sait-sadt-web-project) | JavaScript | Full-stack app with Firebase auth + weather API |
+
+---
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeanxristianpascua)
+
+📍 Calgary, AB · Open to co-op roles in software development, cybersecurity, and IT
