@@ -34,8 +34,8 @@ Before tech, I worked in kitchens and cleaning services. That background shaped 
 
 | Project | Language | What it is |
 |---|---|---|
-| [password-validation-system](https://github.com/JeanXristianPascua/password-validation-system) | Assembly | XOR-encoded auth system with lockout logic |
-| [text-based-adventure-game](https://github.com/JeanXristianPascua/text-based-adventure-game) | C++ | Factory-pattern adventure game with CI pipeline |
+| [password-validation-system](https://github.com/jeanpascua/password-validation-system) | Assembly | XOR-encoded auth system with lockout logic |
+| [text-based-adventure-game](https://github.com/jeanpascua/text-based-adventure-game) | C++ | Factory-pattern adventure game with CI pipeline |
 | [sait-web-project](https://github.com/anthony040190/sait-sadt-web-project) | JavaScript | Full-stack app with Firebase auth + weather API |
 
 ---
@@ -45,3 +45,5 @@ Before tech, I worked in kitchens and cleaning services. That background shaped 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeanxristianpascua)
 
 📍 Calgary, AB · Open to co-op roles in software development, cybersecurity, and IT
+
+🌐 Portfolio: [jeanpascua.github.io](https://jeanpascua.github.io)
