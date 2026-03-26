@@ -36,7 +36,7 @@ Before tech, I worked in kitchens and cleaning services. That background shaped 
 |---|---|---|
 | [password-validation-system](https://github.com/jeanpascua/password-validation-system) | Assembly | XOR-encoded auth system with lockout logic |
 | [text-based-adventure-game](https://github.com/jeanpascua/text-based-adventure-game) | C++ | Factory-pattern adventure game with CI pipeline |
-| [sait-web-project](https://github.com/anthony040190/sait-sadt-web-project) | JavaScript | Full-stack app with Firebase auth + weather API |
+| [sait-web-project](https://github.com/jeanpascua/sait-sadt-web-project) | JavaScript | Full-stack app with Firebase auth + weather API |
 
 ---
 
