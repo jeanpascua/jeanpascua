@@ -41,7 +41,7 @@ Before tech, I worked in kitchens and cleaning services. That background shaped 
 
 ## GitHub Stats
 
-![Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanpascua&show_icons=true&theme=dark&hide_border=true)
+![Jean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanpascua&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
