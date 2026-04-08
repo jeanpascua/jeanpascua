@@ -9,8 +9,8 @@ I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe 
 ## What I'm Working On
 
 - Personal homelab running Proxmox VE, Docker, Pi-hole, Nextcloud, and Tailscale VPN
-- TryHackMe rooms covering offensive security, networking, and Active Directory
-- CPSC coursework: Data Structures & Algorithms, Introduction to Database Systems
+- Working through TryHackMe offensive security and networking rooms
+- Upcoming: Cryptography (Summer 2026)
 
 ---
 
