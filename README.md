@@ -1,48 +1,52 @@
-# Hi, I'm Jean 👋
+# Hi, I'm Jean
 
-I'm a third-year Computer Science student at the **University of Lethbridge** (Calgary campus, expected graduation 2027), building on a Software Development diploma I completed with honours at SAIT. I'm drawn to **cybersecurity** and the intersection of software design and security engineering.
+Third-year Computer Science student at the **University of Lethbridge** (Calgary campus), building on a Software Development diploma from SAIT. I'm focused on cybersecurity and IT infrastructure.
 
-Before tech, I worked in kitchens and cleaning services. That background shaped how I approach problems — methodically, under pressure, and without needing to be told twice.
+I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe (top 20%, 34 rooms), and hold Google's Cybersecurity and IT Support certifications. I'm currently in the co-op program and looking for roles in cybersecurity or IT infrastructure.
 
 ---
 
 ## What I'm Working On
 
-- 📚 Currently studying Computer Science
-- 🎮 Freelance game testing — documenting bugs, running regression tests on pre-release titles
+- Personal homelab running Proxmox VE, Docker, Pi-hole, Nextcloud, and Tailscale VPN
+- TryHackMe rooms covering offensive security, networking, and Active Directory
+- CPSC coursework: Data Structures & Algorithms, Introduction to Database Systems
 
 ---
 
-## Tech I Work With
+## Skills
 
-**Languages:** Python · Java · C++ · JavaScript · SQL · C# · Assembly · HTML/CSS  
-**Tools:** Git · GitHub · GitLab · Firebase · Linux · VS Code · Android Studio · Figma  
-**Concepts:** OOP · Data Structures · Software Testing · Web Dev · Software Security · Database Design · Agile
+**Security:** Nmap | Metasploit | Wireshark | Tcpdump | Kali Linux | Active Directory basics | Offensive & defensive fundamentals
+
+**Infrastructure:** Proxmox VE | KVM | Docker | Portainer | Pi-hole | Tailscale/WireGuard | SSH | Linux administration
+
+**Networking:** DNS | VPN | TCP/IP | OSI model | Network protocols | Packet analysis
+
+**Programming:** Python | SQL | Bash
+
+**Tools:** Git | GitHub | GitLab | VS Code | SharePoint
 
 ---
 
 ## Certifications
 
-- 🛡️ Google Cybersecurity Specialization — Coursera (2025)
-- 🖥️ Google IT Support Specialization — Coursera (2024)
+- Google Cybersecurity Specialization — Coursera (2025)
+- Google IT Support Specialization — Coursera (2024)
 
 ---
 
-## Projects
+## TryHackMe
 
-| Project | Language | What it is |
-|---|---|---|
-| [fraud-detection-system](https://github.com/jeanpascua/fraud-detection-system) | Python | Real-time fraud detection using custom HashMap, Graph + BFS, and Sliding Window — a cybersecurity project |
-| [password-validation-system](https://github.com/jeanpascua/password-validation-system) | Assembly | XOR-encoded auth system with lockout logic |
-| [text-based-adventure-game](https://github.com/jeanpascua/text-based-adventure-game) | C++ | Factory-pattern adventure game with CI pipeline |
-| [sait-web-project](https://github.com/jeanpascua/sait-sadt-web-project) | JavaScript | Full-stack app with Firebase auth + weather API |
+Top 20% | 34 completed rooms
+
+Covered: Linux & Windows fundamentals, Active Directory, Nmap, Wireshark, Metasploit, Tcpdump, John the Ripper, Networking, Cryptography, Offensive & Defensive Security intro, CVE exploitation
+
+[View my profile](https://tryhackme.com/p/Jegz)
 
 ---
 
-## Let's Connect
+## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeanxristianpascua)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://jeanpascua.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jean.pascua@uleth.ca)
-
-📍 Calgary, AB · Open to co-op, internship, and junior roles in software development and cybersecurity
+- LinkedIn: [linkedin.com/in/jeanpascua](https://linkedin.com/in/jeanpascua)
+- Location: Calgary, AB
+- Open to co-op roles in cybersecurity and IT infrastructure
