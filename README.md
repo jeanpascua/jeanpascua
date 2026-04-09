@@ -47,6 +47,6 @@ Covered: Linux & Windows fundamentals, Active Directory, Nmap, Wireshark, Metasp
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/jeanpascua](https://linkedin.com/in/jeanpascua)
+- LinkedIn: [linkedin.com/in/jeanpascua](https://www.linkedin.com/in/jean-pascua/)
 - Location: Calgary, AB
 - Open to co-op roles in cybersecurity and IT infrastructure
