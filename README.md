@@ -1,8 +1,8 @@
 # Hi, I'm Jean
 
-Third-year Computer Science student at the **University of Lethbridge** (Calgary campus), building on a Software Development diploma from SAIT. I'm focused on cybersecurity and IT infrastructure.
+Third-year Computer Science student at the University of Lethbridge (Calgary campus), building on a Software Development diploma from SAIT. Focused on cybersecurity and IT infrastructure.
 
-I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe (top 20%, 34 rooms), and hold Google's Cybersecurity and IT Support certifications. I'm currently in the co-op program and looking for roles in cybersecurity or IT infrastructure.
+I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe (top 20%, 34 rooms), and hold Google's Cybersecurity and IT Support certifications. Currently in the co-op program and looking for roles in cybersecurity or IT infrastructure.
 
 ---
 
@@ -16,7 +16,7 @@ I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe 
 
 ## Skills
 
-**Security:** Nmap | Metasploit | Wireshark | Tcpdump | Kali Linux | Active Directory basics | Offensive & defensive fundamentals
+**Security:** Nmap | Metasploit | Wireshark | Tcpdump | Kali Linux | Active Directory basics | Offensive and defensive fundamentals
 
 **Infrastructure:** Proxmox VE | KVM | Docker | Portainer | Pi-hole | Tailscale/WireGuard | SSH | Linux administration
 
@@ -30,8 +30,8 @@ I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe 
 
 ## Certifications
 
-- Google Cybersecurity Specialization — Coursera (2025)
-- Google IT Support Specialization — Coursera (2024)
+- Google Cybersecurity Specialization, Coursera (2025)
+- Google IT Support Specialization, Coursera (2024)
 
 ---
 
@@ -39,7 +39,7 @@ I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe 
 
 Top 20% | 34 completed rooms
 
-Covered: Linux & Windows fundamentals, Active Directory, Nmap, Wireshark, Metasploit, Tcpdump, John the Ripper, Networking, Cryptography, Offensive & Defensive Security intro, CVE exploitation
+Covered: Linux and Windows fundamentals, Active Directory, Nmap, Wireshark, Metasploit, Tcpdump, John the Ripper, Networking, Cryptography, Offensive and Defensive Security intro, CVE exploitation
 
 [View my profile](https://tryhackme.com/p/Jegz)
 
@@ -47,6 +47,6 @@ Covered: Linux & Windows fundamentals, Active Directory, Nmap, Wireshark, Metasp
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/jeanpascua](https://www.linkedin.com/in/jean-pascua/)
+- LinkedIn: [linkedin.com/in/jean-pascua](https://www.linkedin.com/in/jean-pascua/)
 - Location: Calgary, AB
 - Open to co-op roles in cybersecurity and IT infrastructure
