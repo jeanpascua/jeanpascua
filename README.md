@@ -9,7 +9,9 @@ I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe 
 ## What I'm Working On
 
 - Personal homelab running Proxmox VE, Docker, Pi-hole, Nextcloud, and Tailscale VPN
-- Working through TryHackMe offensive security and networking rooms
+- Active pentesting lab — attacking Metasploitable 2 from Kali Linux, documenting exploits in [security-writeups](https://github.com/jeanpascua/security-writeups)
+- Self-hosted second brain synced across devices with Syncthing and Obsidian, with Claude Code and Gemini CLI for AI-assisted workflows
+- Working through TryHackMe Jr Penetration Tester path
 - Upcoming: Cryptography (Summer 2026)
 
 ---
@@ -18,13 +20,13 @@ I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe 
 
 **Security:** Nmap | Metasploit | Wireshark | Tcpdump | Kali Linux | Active Directory basics | Offensive and defensive fundamentals
 
-**Infrastructure:** Proxmox VE | KVM | Docker | Portainer | Pi-hole | Tailscale/WireGuard | SSH | Linux administration
+**Infrastructure:** Proxmox VE | KVM | Docker | Portainer | Pi-hole | Tailscale/WireGuard | SSH | Linux administration | Syncthing
 
 **Networking:** DNS | VPN | TCP/IP | OSI model | Network protocols | Packet analysis
 
 **Programming:** Python | SQL | Bash
 
-**Tools:** Git | GitHub | GitLab | VS Code | SharePoint
+**Tools:** Git | GitHub | GitLab | VS Code | SharePoint | Claude Code | Gemini CLI
 
 ---
 
@@ -41,7 +43,7 @@ Top 20% | 34 completed rooms
 
 Covered: Linux and Windows fundamentals, Active Directory, Nmap, Wireshark, Metasploit, Tcpdump, John the Ripper, Networking, Cryptography, Offensive and Defensive Security intro, CVE exploitation
 
-[View my profile](https://tryhackme.com/p/Jegz)
+[View my profile](https://tryhackme.com/p/Jegz) | [Security Writeups](https://github.com/jeanpascua/security-writeups)
 
 ---
 
