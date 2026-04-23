@@ -9,8 +9,8 @@ I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe 
 ## What I'm Working On
 
 - Personal homelab running Proxmox VE, Docker, Pi-hole, Nextcloud, and Tailscale VPN
-- Active pentesting lab — attacking Metasploitable 2 from Kali Linux, documenting exploits in [security-writeups](https://github.com/jeanpascua/security-writeups)
-- Self-hosted second brain synced across devices with Syncthing and Obsidian, with Claude Code and Gemini CLI for AI-assisted workflows
+- Running attacks against Metasploitable 2 from Kali Linux and documenting findings in [security-writeups](https://github.com/jeanpascua/security-writeups)
+- Self-hosted notes vault synced across devices with Syncthing and Obsidian, using Claude Code and Gemini CLI in the terminal
 - Working through TryHackMe Jr Penetration Tester path
 - Upcoming: Cryptography (Summer 2026)
 
