@@ -10,7 +10,7 @@ I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe 
 
 - Personal homelab running Proxmox VE, Docker, Pi-hole, Nextcloud, and Tailscale VPN
 - Running attacks against Metasploitable 2 from Kali Linux and documenting findings in [security-writeups](https://github.com/jeanpascua/security-writeups)
-- Self-hosted notes vault synced across devices with Syncthing and Obsidian, using Claude Code and Gemini CLI in the terminal
+- Self-hosted notes vault synced across devices with Syncthing and Obsidian, using Claude Code in the terminal
 - Working through TryHackMe Jr Penetration Tester path
 - Upcoming: Cryptography (Summer 2026)
 
@@ -26,7 +26,7 @@ I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe 
 
 **Programming:** Python | SQL | Bash
 
-**Tools:** Git | GitHub | GitLab | VS Code | SharePoint | Claude Code | Gemini CLI
+**Tools:** Git | GitHub | GitLab | VS Code | SharePoint | Claude Code
 
 ---
 
