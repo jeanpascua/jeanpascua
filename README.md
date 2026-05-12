@@ -1,51 +1,38 @@
 # Hi, I'm Jean
 
-Third-year Computer Science student at the University of Lethbridge (Calgary campus), building on a Software Development diploma from SAIT. Into cybersecurity and IT infrastructure.
+Third-year CS student at the University of Lethbridge (Calgary campus), also have a Software Development diploma from SAIT. I like building things that automate themselves and don't need babysitting.
 
-I learn by doing. I run a personal homelab on bare metal, practice on TryHackMe, and hold Google's Cybersecurity and IT Support certifications. In the co-op program now and looking for roles in cybersecurity or IT infrastructure.
+In the co-op program, looking for a DevOps or infrastructure role where I can automate things that shouldn't be manual.
 
 ---
 
 ## What I'm Working On
 
-- Personal homelab running Proxmox VE, Docker, Pi-hole, Nextcloud, Grafana, and Tailscale VPN
-- Automated MACD trading bot running live on IBKR — Python, ib-insync, IBC, systemd
-- Steam Deck TDP optimizer that learns the right wattage per game ([deck-auto-tdp](https://github.com/jeanpascua/deck-auto-tdp))
-- Running attacks against Metasploitable 2 from Kali Linux and documenting findings in [security-writeups](https://github.com/jeanpascua/security-writeups)
-- Self-hosted notes vault synced across devices with Syncthing and Obsidian
-- Working through TryHackMe Jr Penetration Tester path
-- Currently taking Cryptography (CPSC 3730) and AI (CPSC 3750), Summer 2026
+- **Homelab** — bare-metal server running Proxmox VE, Docker, Pi-hole, Nextcloud, Grafana/Prometheus monitoring, Tailscale VPN. Managed entirely over SSH since 2024. ([homelab](https://github.com/jeanpascua/homelab))
+- **Automated trading bot** — Python bot that trades on Interactive Brokers every weekday morning via MACD signals. Runs headless on a home server via systemd with reconnect logic and failure recovery. Live since 2025. ([macd-trading-bot](https://github.com/jeanpascua/macd-trading-bot))
+- **Steam Deck TDP optimizer** — systemd service that binary-searches for the minimum TDP each game needs and converges per-game profiles without manual tuning. ([deck-auto-tdp](https://github.com/jeanpascua/deck-auto-tdp))
+- **Flask + Docker + GitHub Actions** — containerized Flask app with CI/CD pipeline that auto-builds and tests on every push to main. ([flask-demo](https://github.com/jeanpascua/flask-demo))
 
 ---
 
 ## Skills
 
-**Security:** Nmap | Metasploit | Wireshark | Tcpdump | Kali Linux | Active Directory basics | Offensive and defensive fundamentals
+**Infrastructure:** Proxmox VE | KVM | Docker | Portainer | Nginx Proxy Manager | Pi-hole | Tailscale/WireGuard | SSH | Linux admin | Watchtower | Syncthing
 
-**Infrastructure:** Proxmox VE | KVM | Docker | Portainer | Pi-hole | Tailscale/WireGuard | SSH | Linux administration | Syncthing | Prometheus | Grafana
+**CI/CD & Automation:** GitHub Actions | systemd | Python | Bash
 
-**Networking:** DNS | VPN | TCP/IP | OSI model | Network protocols | Packet analysis
+**Monitoring:** Prometheus | Grafana | Discord alerting
 
-**Programming:** Python | SQL | Bash
+**Networking:** DNS | DHCP | VPN | TCP/IP | OSI model
 
-**Tools:** Git | GitHub | GitLab | VS Code | SharePoint
+**Tools:** Git | GitHub | VS Code
 
 ---
 
 ## Certifications
 
-- Google Cybersecurity Specialization, Coursera (2025)
-- Google IT Support Specialization, Coursera (2024)
-
----
-
-## TryHackMe
-
-Jr Penetration Tester path in progress.
-
-Covered: Linux and Windows fundamentals, Active Directory, Nmap, Wireshark, Metasploit, Tcpdump, John the Ripper, Networking, Cryptography, Offensive and Defensive Security intro, CVE exploitation
-
-[View my profile](https://tryhackme.com/p/Jegz) | [Security Writeups](https://github.com/jeanpascua/security-writeups)
+- Google Cybersecurity Professional Certificate (2025)
+- Google IT Support Professional Certificate (2024)
 
 ---
 
@@ -53,4 +40,4 @@ Covered: Linux and Windows fundamentals, Active Directory, Nmap, Wireshark, Meta
 
 - LinkedIn: [linkedin.com/in/jean-pascua](https://www.linkedin.com/in/jean-pascua/)
 - Location: Calgary, AB
-- Open to co-op roles in cybersecurity and IT infrastructure
+- Open to DevOps, infrastructure, or cloud co-op roles — Canada-wide and remote
