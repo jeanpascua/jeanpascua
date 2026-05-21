@@ -42,4 +42,4 @@ In the co-op program, looking for a DevOps, DevSecOps, or infrastructure role wh
 
 - LinkedIn: [linkedin.com/in/jean-pascua](https://www.linkedin.com/in/jean-pascua/)
 - Location: Calgary, AB
-- Open to DevOps, DevSecOps, infrastructure, or cloud co-op roles — Canada-wide and remote
+- Open to DevOps, DevSecOps, infrastructure, or cloud co-op roles, Canada-wide and remote
