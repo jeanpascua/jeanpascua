@@ -9,7 +9,7 @@ In the co-op program, looking for a DevOps, DevSecOps, or infrastructure role wh
 ## What I'm Working On
 
 - **Homelab**: bare-metal server running Proxmox VE, Docker, Pi-hole, Nextcloud, Tailscale VPN. Hardened with fail2ban, DOCKER-USER iptables chain, and Discord alerting. Managed entirely over SSH. ([homelab](https://github.com/jeanpascua/homelab))
-- **Automated trading bot**: Python bot that trades on Interactive Brokers every weekday at 3:55 PM ET via MACD signals. Runs headless on a home server via systemd with reconnect logic and failure recovery. Live since 2026. (private)
+- **Crypto trading bot**: Freqtrade bot running MACDStrategy on Kraken USDT pairs. Momentum-based entries on 4h candles with ADX + EMA200 filters. Paper trading now, going live soon. (private)
 - **Tech digest bot**: pulls Hacker News top 5 and r/programming + r/devops top posts daily, formats a digest, and posts to Discord via webhook. Runs on a systemd timer. ([tech-digest](https://github.com/jeanpascua/tech-digest))
 - **Flask + Docker + GitHub Actions**: containerized Flask app with CI/CD pipeline that auto-builds, tests, and runs Snyk + Trivy security scans on every push to main. ([flask-demo](https://github.com/jeanpascua/flask-demo))
 
