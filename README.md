@@ -9,9 +9,10 @@ In the co-op program, looking for a DevOps, DevSecOps, or infrastructure role wh
 ## What I'm Working On
 
 - **Homelab**: bare-metal server running Proxmox VE, Docker, Pi-hole, Nextcloud, Tailscale VPN. Hardened with fail2ban, DOCKER-USER iptables chain, and Discord alerting. Managed entirely over SSH. ([homelab](https://github.com/jeanpascua/homelab))
-- **Crypto trading bot**: Freqtrade bot running MACDStrategy on Kraken USDT pairs. Momentum-based entries on 4h candles with ADX + EMA200 filters. Paper trading now, going live soon. (private)
+- **Marketplace deal bot**: scrapes Kijiji and Facebook Marketplace for listings matching a keyword watchlist and price thresholds. Sends real-time Discord alerts on new matches. Runs continuously on homelab via systemd. ([marketplace-deal-bot](https://github.com/jeanpascua/marketplace-deal-bot))
 - **Tech digest bot**: pulls Hacker News top 5 and r/programming + r/devops top posts daily, formats a digest, and posts to Discord via webhook. Runs on a systemd timer. ([tech-digest](https://github.com/jeanpascua/tech-digest))
 - **Flask + Docker + GitHub Actions**: containerized Flask app with CI/CD pipeline that auto-builds, tests, and runs Snyk + Trivy security scans on every push to main. ([flask-demo](https://github.com/jeanpascua/flask-demo))
+- **Steam Deck Auto TDP**: systemd user service that monitors GPU utilization per game and binary-searches for the minimum stable TDP. Converges in 3-5 sessions with no manual tuning. ([deck-auto-tdp](https://github.com/jeanpascua/deck-auto-tdp))
 
 ---
 
