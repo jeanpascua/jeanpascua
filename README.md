@@ -11,7 +11,6 @@ In the co-op program, looking for a DevOps, DevSecOps, or infrastructure role wh
 - **Homelab**: bare-metal desktop (Ryzen 7 7700X, RTX 3090, 32GB RAM) running Ubuntu 24.04. Docker stack with Pi-hole and Nextcloud. Local LLM with Ollama + Open WebUI. Hardened with fail2ban, UFW, SSH key-only auth, and Discord alerting. Backups to Cloudflare R2. ([homelab](https://github.com/jeanpascua/homelab))
 - **Tech digest bot**: pulls Hacker News top 5 and r/programming + r/devops top posts daily, formats a digest, and posts to Discord via webhook. Runs on a systemd timer. ([tech-digest](https://github.com/jeanpascua/tech-digest))
 - **Steam Deck optimizer**: AI-powered game settings recommender. Pulls community data from SteamDeckHQ with local Ollama fallback. Auto-learns optimal TDP per game over sessions. Sends settings to Discord on game launch. ([deck-optimizer](https://github.com/jeanpascua/deck-optimizer))
-- **Flask + Docker + GitHub Actions**: containerized Flask app with CI/CD pipeline that auto-builds, tests, and runs Snyk + Trivy security scans on every push to main. ([flask-demo](https://github.com/jeanpascua/flask-demo))
 
 ---
 
