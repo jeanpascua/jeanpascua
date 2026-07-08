@@ -21,7 +21,7 @@ In the co-op program, open to any tech role.
 
 **AI/ML:** Ollama | local LLM inference (RTX 3090) | prompt engineering
 
-**CI/CD & Automation:** GitHub Actions | systemd | Python | Bash | Snyk | Trivy
+**CI/CD & Automation:** GitHub Actions | systemd | Python | Bash
 
 **Security:** fail2ban | UFW/iptables | secrets management (Bitwarden CLI) | SSH hardening | OWASP Top 10
 
@@ -29,7 +29,7 @@ In the co-op program, open to any tech role.
 
 **Networking:** DNS | DHCP | VPN | TCP/IP | OSI model
 
-**Tools:** Git | GitHub | VS Code | Claude Code
+**Tools:** Git | GitHub | VS Code | Claude Code | MCP
 
 ---
 
