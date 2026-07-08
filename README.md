@@ -10,13 +10,14 @@ In the co-op program, looking for a DevOps, DevSecOps, or infrastructure role wh
 
 - **Homelab**: bare-metal desktop (Ryzen 7 7700X, RTX 3090, 32GB RAM) running Fedora 44 (KDE Plasma, Wayland). Docker stack with Pi-hole and Nextcloud. Local LLM with Ollama (native systemd). Hardened with fail2ban, UFW, SSH key-only auth, and Discord alerting. Backups to Cloudflare R2. ([homelab](https://github.com/jeanpascua/homelab))
 - **Tech digest bot**: pulls Hacker News top 10 daily, formats a digest, and posts to Discord via webhook. Runs on a systemd timer. ([tech-digest](https://github.com/jeanpascua/tech-digest))
-- **Steam Deck optimizer**: AI-powered game settings recommender. Pulls community data from SteamDeckHQ with local Ollama fallback. Learns optimal TDP in real-time during play and runs AI post-session analysis to tune all settings. Sends Discord notifications on launch and session end. ([deck-optimizer](https://github.com/jeanpascua/deck-optimizer))
+- **Steam Deck optimizer**: watches TDP while you play and adjusts it in real-time, so you don't have to tune each game by hand. Pulls community settings data from SteamDeckHQ with local Ollama as a fallback, and runs a second AI pass after each session to fine-tune further. Sends a Discord notification when a game launches and when the session ends. ([deck-optimizer](https://github.com/jeanpascua/deck-optimizer))
+- **PC wallpaper**: monitoring wallpaper so you can actively watch your CPU/GPU temp, voltage, and load in real-time without opening a separate app. ([pc-wallpaper](https://github.com/jeanpascua/pc-wallpaper))
 
 ---
 
 ## Skills
 
-**Infrastructure:** Docker | Ubuntu Linux | Pi-hole | Tailscale/WireGuard | SSH | Syncthing | Cloudflare R2 | rclone
+**Infrastructure:** Docker | Fedora Linux | Pi-hole | Tailscale/WireGuard | SSH | Syncthing | Cloudflare R2 | rclone
 
 **AI/ML:** Ollama | local LLM inference (RTX 3090) | prompt engineering
 
